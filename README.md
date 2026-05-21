@@ -1,4 +1,4 @@
-GRIDSZ PRO 🚀✨
+IMAGE CUTTER BY CHAMOD TECH 🚀✨
 
 > Futuristic Neon Image Grid Splitter
 Built for creators, editors & social media designers.
@@ -8,19 +8,10 @@ Built for creators, editors & social media designers.
 
 ---
 
-🌌 GRIDSZ PRO
+🌌 Image Cutter
 
 <div align="center"><img src="https://img.shields.io/badge/Version-2.0-7c4dff?style=for-the-badge"><img src="https://img.shields.io/badge/Responsive-Mobile%20Ready-00d68f?style=for-the-badge"><img src="https://img.shields.io/badge/Powered%20By-JavaScript-ffcc00?style=for-the-badge"></div>
----
 
-<div align="center">██████╗██╗  ██╗ █████╗ ███╗   ███╗ ██████╗ ██████╗ 
-██╔════╝██║  ██║██╔══██╗████╗ ████║██╔═══██╗██╔══██╗
-██║     ███████║███████║██╔████╔██║██║   ██║██║  ██║
-██║     ██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║
-╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝
-
-</div>
 ---
 
 ✨ Features
@@ -80,23 +71,12 @@ Fonts:
 
 ---
 
-📂 Project Structure
-
-GRIDSZ-PRO/
-│
-├── index.html
-├── README.md
-│
-└── assets/
-
-
----
 
 🚀 Getting Started
 
 Clone Repository
 
-git clone https://github.com/your-username/gridsz-pro.git
+git clone https://github.com/chamodmihiranga/Image-Cutter
 
 
 ---
@@ -144,7 +124,7 @@ Optimized For:
 
 All cropped images can be automatically packed into:
 
-GRIDSZ_SPLIT.zip
+CHAMOD_CUTTER.zip
 
 for faster downloading.
 
